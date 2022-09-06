@@ -1,0 +1,13 @@
+**/node_modules
+/freecodecamp-hardhat/.env
+/freecodecamp-hardhat/coverage
+/freecodecamp-hardhat/coverage.json
+//freecodecamp-hardhat/typechain
+/freecodecamp-hardhat/typechain-types
+
+#Hardhat files
+cache
+/freecodecamp-hardhat/artifacts
+/freecodecamp-hardhat/gas-report.txt
+/freecodecamp-hardhat/coverage.json
+
